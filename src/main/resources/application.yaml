@@ -1,0 +1,8 @@
+integration:
+  freecurrency:
+    token: fca_live_BXasiUbHE6GLyCUr6XXSC5Jykot61qMVSHGPbtVr
+    baseUrl: https://api.freecurrencyapi.com/v1/
+    headerTokenName: apiKey
+
+server:
+  port: 8003
